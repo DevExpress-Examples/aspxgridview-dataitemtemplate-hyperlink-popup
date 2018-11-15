@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Pruducts.aspx](./CS/WebSite/Pruducts.aspx) (VB: [Pruducts.aspx](./VB/WebSite/Pruducts.aspx))
+* [Pruducts.aspx.cs](./CS/WebSite/Pruducts.aspx.cs) (VB: [Pruducts.aspx](./VB/WebSite/Pruducts.aspx))
+<!-- default file list end -->
 # How to show popup by clicking a hyperlink in grid column's DataItemTemplate
 
 
