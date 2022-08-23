@@ -13,7 +13,7 @@
 <!-- default file list end -->
 # How to show popup by clicking a hyperlink in grid column's DataItemTemplate
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2270/)**
+**[[Run Online]](https://codecentral.devexpress.com/134059510/)**
 <!-- run online end -->
 
 
