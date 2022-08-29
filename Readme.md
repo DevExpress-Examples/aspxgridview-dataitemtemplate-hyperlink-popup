@@ -14,7 +14,7 @@ This example shows how to create a grid that contains hyperlinks in one of its c
 
 ## Implementation Details
 
-In this example, the Popup Control's [ContentUrl](http://documentation.devexpress.com/#AspNet/DevExpressWebASPxPopupControlASPxPopupControl_ContentUrltopic) property value is calculated in the [ASPxHyperLink](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHyperLink._members)'s [Init](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.control.init?view=netframework-4.8) event handler based on a data row field value and the base URL value stored in the session.
+In this example, the Popup Control's [ContentUrl](http://documentation.devexpress.com/#AspNet/DevExpressWebASPxPopupControlASPxPopupControl_ContentUrltopic) property value is calculated in the [ASPxHyperLink](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHyperLink._members)'s [Init](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.control.init?view=netframework-4.8) event handler based on a data row's field value and the base URL value stored in the session.
 
 The handler builds a JavaScript function that assigns the calculated `ContentUrl` value to the Popup Control on the client when a user clicks the link:
 
