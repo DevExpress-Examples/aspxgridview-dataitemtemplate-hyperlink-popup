@@ -3,7 +3,7 @@ using System;
 
 namespace Solution {
     public partial class Default : System.Web.UI.Page {
-        protected void Page_Init(object sender, EventArgs e) {
+        protected void Page_Init(object sender, EventArgs e) { 
             if (Session["baseURL"] == null)
                 Session["baseURL"] = "Products.aspx";
         }
