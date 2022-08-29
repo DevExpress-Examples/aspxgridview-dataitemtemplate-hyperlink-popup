@@ -48,5 +48,5 @@ protected void hyperLink_Init(object sender, EventArgs e) {
 ## More Examples
 - [Popup Control for ASP.NET Web Forms - How to show a pop-up window](https://github.com/DevExpress-Examples/web-forms-show-popup-window)
 - [Popup Control for ASP.NET Web Forms - How to show and hide a pop-up window on the server side](https://github.com/DevExpress-Examples/asp-net-web-forms-popup-change-visibility)
-- [Grid View for ASP.NET Web Forms - How to display a hyperlink in a templated column](https://github.com/DevExpress-Examples/aspxgridview-display-hyperlink-in-templated-column)
+- [Grid View for ASP.NET MVC - How to display a hyperlink in a templated column](https://github.com/DevExpress-Examples/mvc-gridview-display-hyperlink-in-templated-column)
 - [Grid View for ASP.NET Web Forms - How to display a popup dialog when a user clicks a link in a grid row](https://www.devexpress.com/Support/Center/p/e2193)
