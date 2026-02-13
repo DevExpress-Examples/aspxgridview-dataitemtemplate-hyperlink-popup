@@ -49,7 +49,7 @@ protected void hyperLink_Init(object sender, EventArgs e) {
 - [Grid View for ASP.NET MVC - How to display a hyperlink in a templated column](https://github.com/DevExpress-Examples/mvc-gridview-display-hyperlink-in-templated-column)
 - [Grid View for ASP.NET Web Forms - How to display a popup dialog when a user clicks a link in a grid row](https://www.devexpress.com/Support/Center/p/e2193)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-dataitemtemplate-hyperlink-popup&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-dataitemtemplate-hyperlink-popup&~~~was_helpful=no)
 
